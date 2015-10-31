@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Finance for Dentists]]></title>
+        <description><![CDATA[Finance for Dentists]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 31 Oct 2015 04:16:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is Fi4D]]></title>
+            <description><![CDATA[<article><h1>This is Fi4D</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8935b7dd-e6f8-467d-8587-f47a1bfc2354.png"></article>]]></description>
+            <link>undefinedthis-is-fi4d/index.html</link>
+            <guid isPermaLink="false">8e623620-93f8-40a6-a465-264c92f8410e</guid>
+            <pubDate>Sat, 31 Oct 2015 04:16:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
