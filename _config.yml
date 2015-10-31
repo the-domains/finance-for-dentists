@@ -1,0 +1,28 @@
+name: Finance for Dentists
+favicon: null
+layout_spectrum: 0.20793484197929502
+typography_spectrum: 0.5760829350911081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#31b302'
+    - '#2baa00'
+    - '#1ab300'
+    - '#008000'
+  brandStrength: 0.5
+  lightness: 0.17411199305206537
+  saturation: 0.7594130686484277
+  rhythmicContrast: 0.013146477285772562
+purpose: []
